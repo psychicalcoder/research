@@ -8,9 +8,9 @@
 ![/ZIP75/IMG_1.jpg](./research/ZIP75/IMG_1.jpg)
 ##### 50%壓縮率
 ![/ZIP50/IMG_1.jpg](./research/ZIP50/IMG_1.jpg)
-##### 修復75%壓縮比
+##### 修復75%壓縮率
 ![/TEST75/IMG_1.png](./research/TEST75/IMG_1.png)
-##### 修復50%壓縮比
+##### 修復50%壓縮率
 ![/TEST50/IMG_1.png](./research/TEST50/IMG_1.png)
 ##### 修復原圖
 ![/superorg/IMG_1.png](./research/superorg/IMG_1.png)
